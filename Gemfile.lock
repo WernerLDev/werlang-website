@@ -273,6 +273,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages (~> 209)
   jekyll-feed (~> 0.15)
+  jekyll-include-cache
   minima (~> 2.5)
   minimal-mistakes-jekyll
   tzinfo (~> 1.2)
