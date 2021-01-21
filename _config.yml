@@ -32,6 +32,7 @@ theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
 
+minimal_mistakes_skin: "dark"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
